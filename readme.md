@@ -1,5 +1,7 @@
-#####Hello, guys!
+Hello, guys!
+
 ![foto](KTavatar.jpg)
+
 My name is __Tetiana Krupnik__, I am from Ukraine but just now I live in Israel. 
 
 In search of a remote opportunity to work as a _project manager_, while using agile methodologies. I have completed an IT management course in which I studied multiple project management processes specifically for IT. In this, I learned how to apply hard skills, _agile management methodologies_, and in practice created the “customer aggregator” MVP for desktop applications. 
